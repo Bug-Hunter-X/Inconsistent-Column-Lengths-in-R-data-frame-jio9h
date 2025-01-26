@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming involving the creation of data frames with inconsistent column lengths. The `bug.R` file contains code that produces this error, while `bugSolution.R` provides a corrected version.  The error message can be cryptic for new users, so this example provides a clear illustration and solution.
